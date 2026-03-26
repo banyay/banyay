@@ -1,0 +1,2 @@
+# banyay
+Bányay Géza oldala.
